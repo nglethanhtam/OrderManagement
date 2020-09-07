@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8FqQlEy06xld0RMXK/X/1UYHaq8YxsTUDdR6gcaB0W1TYdMI6yWz2a1BjUvG2JrZnWIDX49teYXCAVDfaiU23g==",
+  "success": true,
+  "projectFilePath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nglet\\.nuget\\packages\\mongodb.bson\\2.11.1\\mongodb.bson.2.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

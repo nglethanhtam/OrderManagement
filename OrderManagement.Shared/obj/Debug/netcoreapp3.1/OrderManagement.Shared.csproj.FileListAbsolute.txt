@@ -1,0 +1,9 @@
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\bin\Debug\netcoreapp3.1\OrderManagement.Shared.deps.json
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\bin\Debug\netcoreapp3.1\OrderManagement.Shared.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\obj\Debug\netcoreapp3.1\OrderManagement.Shared.AssemblyInfoInputs.cache
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\obj\Debug\netcoreapp3.1\OrderManagement.Shared.AssemblyInfo.cs
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\bin\Debug\netcoreapp3.1\OrderManagement.Shared.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\obj\Debug\netcoreapp3.1\OrderManagement.Shared.csproj.CoreCompileInputs.cache
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\obj\Debug\netcoreapp3.1\OrderManagement.Shared.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\obj\Debug\netcoreapp3.1\OrderManagement.Shared.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Shared\obj\Debug\netcoreapp3.1\OrderManagement.Shared.csprojAssemblyReference.cache

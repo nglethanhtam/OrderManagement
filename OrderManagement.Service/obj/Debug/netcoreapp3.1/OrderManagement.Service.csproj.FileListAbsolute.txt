@@ -1,0 +1,16 @@
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Service.deps.json
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Service.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Service.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\obj\Debug\netcoreapp3.1\OrderManagement.Service.AssemblyInfoInputs.cache
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\obj\Debug\netcoreapp3.1\OrderManagement.Service.AssemblyInfo.cs
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\obj\Debug\netcoreapp3.1\OrderManagement.Service.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\obj\Debug\netcoreapp3.1\OrderManagement.Service.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Domain.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Infrastructure.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Shared.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Domain.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Infrastructure.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\bin\Debug\netcoreapp3.1\OrderManagement.Shared.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\obj\Debug\netcoreapp3.1\OrderManagement.Service.csprojAssemblyReference.cache
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\obj\Debug\netcoreapp3.1\OrderManagement.Service.csproj.CopyComplete
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Service\obj\Debug\netcoreapp3.1\OrderManagement.Service.csproj.CoreCompileInputs.cache

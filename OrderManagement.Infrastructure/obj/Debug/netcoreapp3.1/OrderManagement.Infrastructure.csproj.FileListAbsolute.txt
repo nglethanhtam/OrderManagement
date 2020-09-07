@@ -1,0 +1,14 @@
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\obj\Debug\netcoreapp3.1\OrderManagement.Infrastructure.csprojAssemblyReference.cache
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\obj\Debug\netcoreapp3.1\OrderManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\obj\Debug\netcoreapp3.1\OrderManagement.Infrastructure.AssemblyInfo.cs
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\bin\Debug\netcoreapp3.1\OrderManagement.Infrastructure.deps.json
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\bin\Debug\netcoreapp3.1\OrderManagement.Infrastructure.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\bin\Debug\netcoreapp3.1\OrderManagement.Infrastructure.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\bin\Debug\netcoreapp3.1\OrderManagement.Shared.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\bin\Debug\netcoreapp3.1\OrderManagement.Shared.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\obj\Debug\netcoreapp3.1\OrderManagement.Infrastructure.csproj.CopyComplete
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\obj\Debug\netcoreapp3.1\OrderManagement.Infrastructure.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\obj\Debug\netcoreapp3.1\OrderManagement.Infrastructure.pdb
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\obj\Debug\netcoreapp3.1\OrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\bin\Debug\netcoreapp3.1\OrderManagement.Domain.dll
+D:\Research\OrderManagement\OrderManagement\OrderManagement.Infrastructure\bin\Debug\netcoreapp3.1\OrderManagement.Domain.pdb

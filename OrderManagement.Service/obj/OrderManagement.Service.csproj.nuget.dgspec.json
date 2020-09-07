@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Service\\OrderManagement.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+        "projectName": "OrderManagement.Domain",
+        "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\nglet\\.nuget\\packages\\",
+        "outputPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nglet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://bollore-logistics.pkgs.visualstudio.com/_packaging/BTL.Cerebro/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj": {
+                "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj",
+        "projectName": "OrderManagement.Infrastructure",
+        "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\nglet\\.nuget\\packages\\",
+        "outputPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nglet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://bollore-logistics.pkgs.visualstudio.com/_packaging/BTL.Cerebro/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
+                "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj"
+              },
+              "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj": {
+                "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.1, )"
+            },
+            "ServiceStack.Core": {
+              "target": "Package",
+              "version": "[5.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Service\\OrderManagement.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Service\\OrderManagement.Service.csproj",
+        "projectName": "OrderManagement.Service",
+        "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Service\\OrderManagement.Service.csproj",
+        "packagesPath": "C:\\Users\\nglet\\.nuget\\packages\\",
+        "outputPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nglet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://bollore-logistics.pkgs.visualstudio.com/_packaging/BTL.Cerebro/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
+                "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj"
+              },
+              "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj": {
+                "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj"
+              },
+              "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj": {
+                "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj",
+        "projectName": "OrderManagement.Shared",
+        "projectPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\OrderManagement.Shared.csproj",
+        "packagesPath": "C:\\Users\\nglet\\.nuget\\packages\\",
+        "outputPath": "D:\\Research\\OrderManagement\\OrderManagement\\OrderManagement.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nglet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://bollore-logistics.pkgs.visualstudio.com/_packaging/BTL.Cerebro/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
